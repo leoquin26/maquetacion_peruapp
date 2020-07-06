@@ -1,0 +1,14 @@
+@tailwind base;
+
+@tailwind components;
+
+@tailwind utilities;
+
+/*Header*/
+.background-header{
+   background-image: url("./images/background-header.png");
+ }
+/*Login*/
+.background-login{
+  background-image: url("./images/background_login.png");
+}
